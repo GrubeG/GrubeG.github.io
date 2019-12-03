@@ -5,7 +5,7 @@
   background-image: none;
 }
 
-/* Navbar title */
+!/* Navbar title */
 .navbar-default .navbar-brand {
   color: white;
   font-size: 20px;
@@ -77,7 +77,7 @@ p {
 }
 
 a {
-  color: #863ee3;
+  color: #007bff;
 }
 
 a:hover {
@@ -97,8 +97,15 @@ a:hover {
 }
 
 body {
-  padding-top: 50px;
-  font-family: 'Georgia', serif;
-  background-color: #f7f1fa;
+  padding-top: 40px;
+  font-family: 'Segoe UI', serif;
+  background-color: #e9ecef;
+  color: #242424;
+}
+
+card-body {
+  padding-top: 40px;
+  font-family: 'Segoe UI', serif;
+  background-color: #e9ecef;
   color: #242424;
 }
