@@ -1,2 +1,4 @@
 https://nsgic.memberclicks.net/assets/docs/GEE/Best_Practice_Detail_D.pdf
 https://www.nps.gov/parkhistory/online_books/pete/city_point_landscape.pdf
+https://api.mapbox.com/styles/v1/tripleg373/ck2jj9gtf0ump1cqvs91jdhb3.html?fresh=true&title=view&access_token=pk.eyJ1IjoidHJpcGxlZzM3MyIsImEiOiJjanprazZ0cHMwbHMyM29vYXk5ZGlnNGNvIn0.UYb-wxnQA4qlVCD8Ayg6ow#9.4/43.0996/-89.4789
+http://gis.ci.janesville.wi.us/Html5Viewer/Index.html?viewer=Janesville
