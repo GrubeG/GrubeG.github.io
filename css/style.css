@@ -85,9 +85,9 @@ a:hover {
 }
 
 .jumbotron {
-  background-image: url("../assets/contour-lines.png");
+  background-image: url("../assets/IndianaDunes.jpg");
   text-align: center;
-  color: #fff;
+  color: #000000;
   padding: 2%;
 }
 
