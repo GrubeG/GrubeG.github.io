@@ -8,3 +8,17 @@
 .portfolio-thumbnail img	{
 	height: 250px;
 }
+
+body {
+  padding-top: 40px;
+  font-family: 'Segoe UI', serif;
+  background-color: #e9ecef;
+  color: #242424;
+}
+
+card-body {
+  padding-top: 40px;
+  font-family: 'Segoe UI', serif;
+  background-color: #e9ecef;
+  color: #242424;
+}
