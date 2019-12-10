@@ -92,18 +92,12 @@ a:hover {
 }
 
 .jumbotron h2 {
-  font-size: 36px;
+  padding-top: 15px;
+  font-size: 40px;
   font-weight: bold;
 }
 
 body {
-  padding-top: 40px;
-  font-family: 'Segoe UI', serif;
-  background-color: #e9ecef;
-  color: #242424;
-}
-
-card-body {
   padding-top: 40px;
   font-family: 'Segoe UI', serif;
   background-color: #e9ecef;
