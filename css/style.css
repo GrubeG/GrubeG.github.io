@@ -85,7 +85,7 @@ a:hover {
 }
 
 .jumbotron {
-  background-image: url("../assets/Africa.PNG");
+  background-image: url("../assets/JumbotronLong.PNG");
   text-align: center;
   color: #000000;
   padding: 2%;
@@ -99,7 +99,7 @@ a:hover {
 
 body {
   padding-top: 40px;
-  font-family: 'Segoe UI', serif;
+  font-family: 'Segoe UI';
   background-color: #e9ecef;
   color: #242424;
   font-size: 15px;
